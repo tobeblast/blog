@@ -190,5 +190,5 @@ export default function App() {
         <FooterSection />
       </section>
     </>
-  );
+  )
 }
